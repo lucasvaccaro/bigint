@@ -1,9 +1,8 @@
 # BigInt
 
-BigInt Class in C++
+BigInt Class in C++ with logical and arithmetical operations.
 
-Project developed in the Data Structures course (CISC220) / Fall 2015 / University of Delaware
-
-Collaborators:  
+**Collaborators:**  
 Christopher Reinhardt  
-David Geron-Neubauer
+David Geron-Neubauer  
+Lucas Vaccaro
